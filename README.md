@@ -22,7 +22,7 @@ $ ask-my-cv "which team did you lead?"
 I built a RAG chat over my own CV, so you can skip the intro call.
 Ask *"how do you tune Postgres?"*, *"what did you ship last?"*, *"open to remote?"* — and get the rest of that answer.
 
-[![Ask my CV](https://img.shields.io/badge/→%20%20Ask%20my%20CV%20%20←-toidang.xyz%2Fr%2Fcv-6E56CF?style=for-the-badge&logo=react&logoColor=white)](https://www.toidang.xyz/r/cv?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=hero-cta)
+[![Ask my CV](https://img.shields.io/badge/→%20%20Ask%20my%20CV%20%20←-toidang.xyz%2Fr%2Fcv-6E56CF?style=for-the-badge&logo=react&logoColor=white)](https://www.toidang.xyz/r/cv?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=hero-cta#ask-my-cv)
 
 [![Blog](https://img.shields.io/badge/Blog-toidang.xyz-0A0A0A?style=flat-square&logo=hugo&logoColor=white)](https://www.toidang.xyz/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=nav-blog)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-toidang92-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toidang92)
