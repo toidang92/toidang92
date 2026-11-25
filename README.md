@@ -15,19 +15,19 @@ Shipping production web apps since 2014 · Hồ Chí Minh City, Vietnam (UTC+7)
 ```console
 $ ask-my-cv "which team did you lead?"
 
-  ▸ retrieving  ██████████████████░░░░░░  toidang.xyz/r/cv
+  ▸ retrieving  ██████████████████░░░░░░  toidang.com/r/cv
   ▸ I led a team of …▉
 ```
 
 I built a RAG chat over my own CV, so you can skip the intro call.
 Ask *"how do you tune Postgres?"*, *"what did you ship last?"*, *"open to remote?"* — and get the rest of that answer.
 
-[![Ask my CV](https://img.shields.io/badge/→%20%20Ask%20my%20CV%20%20←-toidang.xyz%2Fr%2Fcv-6E56CF?style=for-the-badge&logo=react&logoColor=white)](https://www.toidang.xyz/r/cv?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=hero-cta#ask-my-cv)
+[![Ask my CV](https://img.shields.io/badge/→%20%20Ask%20my%20CV%20%20←-toidang.com%2Fr%2Fcv-6E56CF?style=for-the-badge&logo=react&logoColor=white)](https://www.toidang.com/r/cv?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=hero-cta#ask-my-cv)
 
 <!-- badges:start -->
-[![Blog](https://img.shields.io/badge/Blog-toidang.xyz-B45309?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTEyIDIwaDkiLz48cGF0aCBkPSJNMTYuNSAzLjVhMi4xMiAyLjEyIDAgMCAxIDMgM0w3IDE5bC00IDEgMS00WiIvPjwvc3ZnPg%3D%3D&logoColor=white)](https://www.toidang.xyz/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=nav-blog)
+[![Blog](https://img.shields.io/badge/Blog-toidang.com-B45309?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTEyIDIwaDkiLz48cGF0aCBkPSJNMTYuNSAzLjVhMi4xMiAyLjEyIDAgMCAxIDMgM0w3IDE5bC00IDEgMS00WiIvPjwvc3ZnPg%3D%3D&logoColor=white)](https://www.toidang.com/?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=nav-blog)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-toidang92-075985?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHJlY3Qgd2lkdGg9IjIwIiBoZWlnaHQ9IjE0IiB4PSIyIiB5PSI3IiByeD0iMiIvPjxwYXRoIGQ9Ik0xNiA3VjVhMiAyIDAgMCAwLTItMmgtNGEyIDIgMCAwIDAtMiAydjIiLz48cGF0aCBkPSJNMiAxM2gyMCIvPjwvc3ZnPg%3D%3D&logoColor=white)](https://www.linkedin.com/in/toidang92)
-[![Contact](https://img.shields.io/badge/Contact-form-9F1239?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHJlY3Qgd2lkdGg9IjIwIiBoZWlnaHQ9IjE2IiB4PSIyIiB5PSI0IiByeD0iMiIvPjxwYXRoIGQ9Im0yMiA3LTguOTcgNS43YTEuOTQgMS45NCAwIDAgMS0yLjA2IDBMMiA3Ii8%2BPC9zdmc%2B&logoColor=white)](https://www.toidang.xyz/r/cv?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=nav-contact#contact-section)
+[![Contact](https://img.shields.io/badge/Contact-form-9F1239?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHJlY3Qgd2lkdGg9IjIwIiBoZWlnaHQ9IjE2IiB4PSIyIiB5PSI0IiByeD0iMiIvPjxwYXRoIGQ9Im0yMiA3LTguOTcgNS43YTEuOTQgMS45NCAwIDAgMS0yLjA2IDBMMiA3Ii8%2BPC9zdmc%2B&logoColor=white)](https://www.toidang.com/r/cv?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=nav-contact#contact-section)
 <!-- badges:end -->
 
 ---
@@ -44,7 +44,7 @@ Ask *"how do you tune Postgres?"*, *"what did you ship last?"*, *"open to remote
 
 ---
 
-<sub>Everything else — experience, stack, projects, contact — lives on [the CV](https://www.toidang.xyz/r/cv?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=footer).</sub>
+<sub>Everything else — experience, stack, projects, contact — lives on [the CV](https://www.toidang.com/r/cv?utm_source=github&utm_medium=referral&utm_campaign=profile-readme&utm_content=footer).</sub>
 
 <!-- counter:start -->
 ![Views](https://hits.sh/github.com/toidang92.svg?style=flat-square&label=Views%20since%20Aug%202026&color=166534&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTIgMTJzMy41LTcgMTAtNyAxMCA3IDEwIDctMy41IDctMTAgNy0xMC03LTEwLTdaIi8%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMyIvPjwvc3ZnPg%3D%3D&logoColor=white)

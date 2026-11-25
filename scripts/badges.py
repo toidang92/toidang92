@@ -101,9 +101,9 @@ def render() -> dict[str, str]:
     return {
         "badges": "\n".join(
             [
-                shields("Blog", "toidang.xyz", "B45309", "blog", f"https://www.toidang.xyz/?{UTM}nav-blog"),
+                shields("Blog", "toidang.com", "B45309", "blog", f"https://www.toidang.com/?{UTM}nav-blog"),
                 shields("LinkedIn", "toidang92", "075985", "linkedin", "https://www.linkedin.com/in/toidang92"),
-                shields("Contact", "form", "9F1239", "contact", f"https://www.toidang.xyz/r/cv?{UTM}nav-contact#contact-section"),
+                shields("Contact", "form", "9F1239", "contact", f"https://www.toidang.com/r/cv?{UTM}nav-contact#contact-section"),
             ]
         ),
         "counter": counter(),
